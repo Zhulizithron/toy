@@ -1,8 +1,8 @@
 ---
 identifier: teddy-bear
 name: Teddy Bear
-price: 30.00
+price: priceless
 image: /assets/images/teddybear.png
 title: ToyStore - Teddy Bear
 ---
-My husband is so cute just like this teddy bear
+My Ben is so cute just like this teddy bear
